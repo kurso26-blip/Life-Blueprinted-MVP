@@ -1,0 +1,8 @@
+{
+  "name": "Life Blueprinted",
+  "description": "A high-precision life planning and project management tool that uses structured blueprints to generate actionable timelines. Manage your life events, professional milestones, and personal projects with calculated due dates and organized task lists.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
